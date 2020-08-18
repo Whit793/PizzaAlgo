@@ -5,3 +5,4 @@
 5. Place my order
 6. Choose payment method
 7. Wait
+8. Call pizza place if order doesn't arrive
