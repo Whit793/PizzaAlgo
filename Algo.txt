@@ -3,3 +3,5 @@
 3. Decide on the Pizza
 4. Call the Pizza Place
 5. Place my order
+6. Choose payment method
+7. Wait
