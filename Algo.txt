@@ -1,0 +1,5 @@
+1. Decide Pizza Place
+2. Look at the Menu
+3. Decide on the Pizza
+4. Call the Pizza Place
+5. Place my order
